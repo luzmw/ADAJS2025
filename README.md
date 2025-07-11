@@ -2,7 +2,7 @@
 PRACTICA PRIMER MODULO
 
 ## Alumna:
-Luz [Apellido]
+Luz María Werner
 
 ## Descripción:
 Este proyecto simula un sistema de gestión de biblioteca utilizando fundamentos de JavaScript: arrays, funciones, objetos, manejo de strings, Math, condicionales, ciclos y estructuras de control.
